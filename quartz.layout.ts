@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "WhatsApp Channel": "https://whatsapp.com/channel/0029VarErZRF1YlJBYmwWQ3J",
+      "Support Team": "https://chat.whatsapp.com/LoO2XLXlf8eEoqvmRcEGmQ",
     },
   }),
 }
