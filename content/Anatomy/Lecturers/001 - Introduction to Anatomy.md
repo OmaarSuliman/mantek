@@ -14,6 +14,6 @@ For an engaging overview, watch this trusted YouTube video:
 
 ### Important Notes
 
-Their are notes for this lecture [[Anatomy/Lecturers Notes/001 - Introduction to Anatomy|001 - Introduction to Anatomy]]
+Their are notes for this lecture [[001 - Introduction to Anatomy Notes]]
 
 Happy studying!
