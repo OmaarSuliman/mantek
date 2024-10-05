@@ -4,7 +4,7 @@ In this first lecture, we'll explore the foundational concepts of anatomy. To ai
 
 #### Lecture Slides
 
-[Download the Lecture Slides](https://github.com/OmaarSuliman/mantek/blob/omar/content/Assets/Introduction%20to%20Anatomy.pdf)
+[Download the Lecture Slides](https://chat.whatsapp.com/LJeCfm7iqrmBDmdoIQJrVN)
 
 #### Supplementary Video
 
