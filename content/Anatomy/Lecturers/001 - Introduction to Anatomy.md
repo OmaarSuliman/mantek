@@ -10,11 +10,10 @@ In this first lecture, we'll explore the foundational concepts of anatomy. To ai
 
 For an engaging overview, watch this trusted YouTube video:
 
-<iframe width="360" height="315" src="https://www.youtube-nocookie.com/embed/sHl7uhjk4Bo?si=wTJzEccFlOCRh3MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="360" height="275" src="https://www.youtube-nocookie.com/embed/sHl7uhjk4Bo?si=wTJzEccFlOCRh3MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Important Note
 
-Stay tuned for updates! Any new data or resources will be added as we progress through the curriculum.
+Their are notes for this lecture [001 - Lecture Notes](Anatomy/Lecturers Notes/001 - Introduction to Anatomy|001 - Introduction to Anatomy)
 
 Happy studying!
-
