@@ -2,7 +2,9 @@
 title: Welcome to Mantek
 ---
 
-## Welcome to Mantek's Medicine Study Guide! 🩺
+## Welcome to Mantek's Medicine Study Guide! 🩺 
+
+![[og-image.png|350]]
 
 Our team has curated the best resources available to help you excel in your medical studies. This guide organizes essential materials in an easy-to-follow format covering anatomy, physiology, medical terminology, and more.
 
