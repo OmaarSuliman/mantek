@@ -95,6 +95,6 @@ also known as the The transverse plane, also known as the axial plane, is a hori
 | Eversion      | Turning the foot outward, elevating its outer margin and directing the sole laterally |
 
 
-## Notes
+## Important Notes
 
-Go back to the lecture : [Intro to Anatomy](Anatomy/Lecturers/001 - Introduction to Anatomy|001 - Introduction to Anatomy) 
+Go back to the lecture : [[Anatomy/Lecturers/001 - Introduction to Anatomy|001 - Introduction to Anatomy]]
