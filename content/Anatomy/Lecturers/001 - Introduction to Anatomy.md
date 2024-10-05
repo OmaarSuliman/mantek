@@ -4,7 +4,7 @@ In this first lecture, we'll explore the foundational concepts of anatomy. To ai
 
 #### Lecture Slides
 
-[Download the Lecture Slides](https://chat.whatsapp.com/LJeCfm7iqrmBDmdoIQJrVN)
+[Download the Lecture Slides](https://sendanywhe.re/9GBHKOKF)
 
 #### Supplementary Video
 
