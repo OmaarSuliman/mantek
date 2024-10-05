@@ -2,11 +2,11 @@
 
 In this first lecture, we'll explore the foundational concepts of anatomy. To aid your understanding, please review the following resources:
 
-#### Lecture Slides
+### Lecture Slides
 
 [Download the Lecture Slides](https://www.mediafire.com/file/0yqjqomqkea686j/001+-+Anatomy+-+Introduction+to+Anatomy.pdf/file)
 
-#### Supplementary Video
+### Supplementary Video
 
 For an engaging overview, watch this trusted YouTube video:
 
