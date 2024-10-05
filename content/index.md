@@ -37,3 +37,7 @@ Our team has curated the best resources available to help you excel in your medi
 If you have any questions—whether about specific topics or study strategies—don’t hesitate to reach out. We’re here to support you as you navigate your studies and stay motivated.
 
 The journey to becoming a medical expert is challenging but immensely rewarding. Keep pushing forward, and good luck! We’re cheering you on! 🏥✨
+
+## Important Notes
+
+This is the first lecture in anatomy : [[Anatomy/Lecturers/001 - Introduction to Anatomy|001 - Introduction to Anatomy]]
