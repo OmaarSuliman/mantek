@@ -4,7 +4,7 @@ In this first lecture, we'll explore the foundational concepts of anatomy. To ai
 
 #### Lecture Slides
 
-[Download the Lecture Slides](obsidian://open?vault=content&file=Assets%2FIntroduction%20to%20Anatomy.pdf)
+[Download the Lecture Slides](content/Assets/Introduction to Anatomy.pdf)
 
 #### Supplementary Video
 
