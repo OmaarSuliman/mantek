@@ -17,7 +17,7 @@ For an engaging overview, watch this trusted YouTube videos:
 
 <iframe width="360" height="275" src="https://www.youtube.com/embed/_6T3YAZLPkw?si=p7w8kTvzU16Ck9kB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Important Notes
+## Important Notes
 
 Their are notes for this lecture :  [[001 - Introduction to Anatomy Notes]]
 
