@@ -1,6 +1,7 @@
 ##  داتا :
 
-![[General-pharma.pdf#height=400]]
+[[General-pharma.pdf]]
+
 ---
 ## شرح :
 
