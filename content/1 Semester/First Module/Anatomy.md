@@ -1,6 +1,6 @@
 ## داتا :
 
-![[General-anatomy.pdf#height=400]]
+[[General-anatomy.pdf]]
 
 ---
 ## شرح :
