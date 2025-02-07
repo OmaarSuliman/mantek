@@ -1,6 +1,6 @@
 ##  داتا :
 
-![[General-patho.pdf#height=400]]
+[[General-patho.pdf]]
 
 ---
 ## شرح :
