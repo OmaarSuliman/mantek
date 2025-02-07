@@ -1,6 +1,6 @@
 ##  داتا :
 
-![[General-Histo.pdf#height=400]]
+[[General-Histo.pdf]]
 
 ---
 ## شرح :
