@@ -1,6 +1,6 @@
 ##  داتا :
 
-![[General-physio.pdf#height=400]]
+[[General-physio.pdf]]
 
 ---
 ## شرح :
