@@ -1,6 +1,6 @@
 ##  داتا :
 
-![[Genetics.pdf#height=400]]
+[[Genetics.pdf]]
 
 ---
 ## شرح :
