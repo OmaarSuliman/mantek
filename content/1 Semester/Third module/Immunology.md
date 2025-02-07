@@ -1,6 +1,6 @@
 ##  داتا :
 
-![[General-Immuno.pdf#height=400]]
+[[General-Immuno.pdf]]
 
 ---
 ## شرح :
