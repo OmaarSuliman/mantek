@@ -1,6 +1,6 @@
 ##  داتا :
 
-![[General-para.pdf#height=400]]
+[[General-para.pdf]]
 
 ---
 ## شرح :
