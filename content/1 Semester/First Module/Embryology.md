@@ -1,6 +1,6 @@
 ##  داتا :
 
-![[Embryo.pdf#height=400]]
+[[Embryo.pdf]]
 ---
 ## شرح :
 
