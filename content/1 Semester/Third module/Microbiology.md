@@ -1,6 +1,6 @@
 ##  داتا :
 
-![[General-micro.pdf#height=400]]
+[[General-micro.pdf]]
 
 ---
 ## شرح :
