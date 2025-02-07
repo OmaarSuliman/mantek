@@ -1,6 +1,6 @@
 ##  داتا :
 
-![[General-Bio.pdf#height=400]]
+[[General-Bio.pdf]]
 
 ---
 ## شرح :
