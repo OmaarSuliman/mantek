@@ -53,7 +53,7 @@
 
 الموديول الرابع والخامس
 
-[[Pharma&Path-timetable.pdf.pdf]]
+[[Pharma&Path-timetable.pdf]]
 
 ---
 
