@@ -10,7 +10,12 @@ https://t.me/doctors_11111111/2320
 ---
 ## أسئلة :
 
-لسا الترم ما بداش
+### المحاضرة الاولى (intro to pathology)
+
+https://rb.gy/q4s9ct
+المحاضرة الثانية (cellular adaptation)
+
+https://rb.gy/xpmk7y
 
 ---
 
