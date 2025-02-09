@@ -13,7 +13,7 @@ https://t.me/doctors_11111111/2320
 ### المحاضرة الاولى (intro to pathology)
 
 https://rb.gy/q4s9ct
-المحاضرة الثانية (cellular adaptation)
+### المحاضرة الثانية (cellular adaptation)
 
 https://rb.gy/xpmk7y
 
