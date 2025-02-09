@@ -10,7 +10,8 @@ https://t.me/doctors_11111111/2373
 ---
 ## أسئلة :
 
-أما نبدأ الترم الأول
+### المحاضرة الاولى (drug absorption)
+https://rb.gy/ewon2q
 
 ---
 
