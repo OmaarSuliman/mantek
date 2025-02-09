@@ -9,16 +9,15 @@ https://t.me/doctors_11111111/2373
 
 ---
 ## أسئلة :
-
 ### المحاضرة الاولى (drug absorption)
 
 https://rb.gy/ewon2q
+### المحاضرة الثانية (drug distribution) 
 
----
+https://rb.gy/8snodi
+### المحاضرة الثالثة (drug metabolism)
 
- روابط القنوات عشان لو ما عرفت توصلها :
- 
-https://t.me/Quizzenhimersmed44
+https://rb.gy/tdczs7
 
 ---
 ## عملي :
