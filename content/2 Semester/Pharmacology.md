@@ -18,7 +18,9 @@ https://rb.gy/e6f0pb
 ### المحاضرة الثالثة (drug metabolism)
 
 https://rb.gy/brzuol
+### المحاضرة الرابعة (Drug Excretion)
 
+https://rb.gy/9xtmng
 ---
 ## عملي :
 
