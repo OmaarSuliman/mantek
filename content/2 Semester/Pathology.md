@@ -16,10 +16,10 @@ https://rb.gy/q4s9ct
 ### المحاضرة الثانية (cellular adaptation)
 
 https://rb.gy/xpmk7y
-### اامحاضرة الثالثة (reversible cell injury)
+### المحاضرة الثالثة (reversible cell injury)
 
 https://rb.gy/68pyjb
-### اامحاضرة الرابعة (irreversible cell injury)
+### المحاضرة الرابعة (irreversible cell injury)
 
 https://rb.gy/jdphru
 
