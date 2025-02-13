@@ -22,12 +22,12 @@ https://rb.gy/68pyjb
 ### المحاضرة الرابعة (irreversible cell injury)
 
 https://rb.gy/jdphru
+### المحاضرة الخامسة (tissue accumulation)
 
----
+https://rb.gy/xmfn70
+### المحاضرة السادسة (accute inflammation)
 
- روابط القنوات عشان لو ما عرفت توصلها :
- 
-https://t.me/Quizzenhimersmed44
+https://rebrand.ly/w15zny5
 
 ---
 ## عملي :
