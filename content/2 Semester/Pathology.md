@@ -28,6 +28,9 @@ https://rb.gy/xmfn70
 ### المحاضرة السادسة (accute inflammation)
 
 https://rebrand.ly/w15zny5
+### المحاضرة السابعة (types of acute inflammations)
+
+https://rebrand.ly/j1j98du
 
 ---
 ## عملي :
