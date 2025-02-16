@@ -21,6 +21,12 @@ https://rb.gy/brzuol
 ### المحاضرة الرابعة (Drug Excretion)
 
 https://rb.gy/9xtmng
+### المحاضرة الخامسة (pharmacodynamics 1)
+
+https://goto.now/5ZNwb
+### المحاضرة السادسة (pharmacodynamics 2)
+
+https://goto.now/wenkc
 
 ---
 ## عملي :
