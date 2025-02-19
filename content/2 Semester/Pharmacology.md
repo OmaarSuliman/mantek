@@ -27,6 +27,12 @@ https://goto.now/5ZNwb
 ### المحاضرة السادسة (pharmacodynamics 2)
 
 https://goto.now/wenkc
+### المحاضرة السابعة (drug interaction)
+
+https://goto.now/hm8R4
+### المحاضرة الثامنة (adverse drug reaction)
+
+https://goto.now/nfOp4
 
 ---
 ## عملي :
