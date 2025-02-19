@@ -31,6 +31,16 @@ https://rebrand.ly/w15zny5
 ### المحاضرة السابعة (types of acute inflammations)
 
 https://rebrand.ly/j1j98du
+### المحاضرة الثامنة (chronic inflammation)
+
+https://rb.gy/j9llc1
+### المحاضرة التاسعة (granulomatous inflammation)
+
+https://rebrand.ly/na6t0mx
+### المحاضرة العاشرة (tuberculosis)
+
+https://rebrand.ly/doibw6i
+
 
 ---
 ## عملي :
