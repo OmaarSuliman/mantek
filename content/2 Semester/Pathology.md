@@ -40,7 +40,9 @@ https://rebrand.ly/na6t0mx
 ### المحاضرة العاشرة (tuberculosis)
 
 https://rebrand.ly/doibw6i
+### المحاضرة الحادية عشر (،bilharziasis)
 
+https://goto.now/kqAnY
 
 ---
 ## عملي :
