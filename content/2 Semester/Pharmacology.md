@@ -33,6 +33,9 @@ https://goto.now/hm8R4
 ### المحاضرة الثامنة (adverse drug reaction)
 
 https://goto.now/nfOp4
+### المحاضرة التاسعة والعاشرة (َsympathomimetics)
+
+https://goto.now/5nBgu
 
 ---
 ## عملي :
