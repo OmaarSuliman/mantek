@@ -43,6 +43,9 @@ https://rebrand.ly/doibw6i
 ### المحاضرة الحادية عشر (،bilharziasis)
 
 https://goto.now/kqAnY
+### المحاضرة الثانية عشر (repair)
+
+https://goto.now/GJUHg
 
 ---
 ## عملي :
