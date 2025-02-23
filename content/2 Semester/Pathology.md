@@ -46,7 +46,7 @@ https://goto.now/kqAnY
 ### المحاضرة الثانية عشر (repair)
 
 https://goto.now/GJUHg
-### المحاضرة الثالثة عشر (ischemia_and_infarction)
+### المحاضرة الثالثة عشر (ischemia and infarction)
 
 https://goto.now/6ADOz
 
